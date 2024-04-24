@@ -1,0 +1,27 @@
+/* .panel-primary-bg {
+  background-color: #5f8295 !important;
+} */
+
+.panel-heading-div {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.panel-heading-button {
+  float: right !important;
+}
+
+.panel-heading-text {
+  margin: 10px !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Works for Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}

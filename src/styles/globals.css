@@ -1,0 +1,11 @@
+/**
+* This file includes all the css to be imported from template in project 
+*/
+@import '../public/dist/css/style.css';
+@import '../public/vendors/bower_components/datatables/media/css/jquery.dataTables.min.css';
+@import '../public/vendors/bower_components/jquery-toast-plugin/dist/jquery.toast.min.css';
+@import '../public/dist/css/style.css';
+@import '../public/customStyles.css';
+@import './Loader.css'
+
+
