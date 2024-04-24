@@ -1,7 +1,7 @@
 /**
- * @author: Mahnoor &  Mursleen
+ * @author: Alyan Quddoos
  * @description: This is main Document page of the application contains template relevant styling and applied template
- * @datetime : 12-AUG-2022
+ * @datetime :24-April-2024
  */
 import { Html, Head, Main, NextScript, Script } from "next/document";
 

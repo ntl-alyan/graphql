@@ -1,6 +1,6 @@
 export const APP = {
-    TITLE: "Nayatel CRM",
-    DESC: "This is default description",
-    KEYWORDS: "this is default keywords",
-    AUTHOR: "Enterprise Solution",
+    TITLE: "GraphQL & NextJS",
+    DESC: "This is Default Description",
+    KEYWORDS: "There are the Default Keywords",
+    AUTHOR: "Alyan Quddoos",
   };

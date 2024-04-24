@@ -1,7 +1,7 @@
 /**
- * @author: Mahnoor, Mursleen & Sehrish
+ * @author: Alyan Quddoos
  * @description: This is main App page of the project, it contains providers and relevant fields
- * @datetime : 12-AUG-2022
+ * @datetime : 24-April-2024
  */
 
 // ============= Start :: Imports =============
